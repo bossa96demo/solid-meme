@@ -1,0 +1,20 @@
+    _-`````-,           ,- '- .       ilya@endeavour 
+  .'   .- - |          | - -.  `.     -------------- 
+ /.'  /                     `.   \    OS: EndeavourOS x86_64 
+:/   :      _...   ..._      ``   :   Host: GL553VD 1.0 
+::   :     /._ .`:'_.._\.    ||   :   Kernel: 6.2.2-arch1-1 
+::    `._ ./  ,`  :    \ . _.''   .   Uptime: 8 hours, 14 mins 
+`:.      /   |  -.  \-. \_      /     Packages: 917 (pacman) 
+  \:._ _/  .'   .@)  \@) ` `\ ,.'     Shell: bash 5.1.16 
+     _/,--'       .- .\,-.`--`.       Resolution: 1920x1080 
+       ,'/''     (( \ `  )            WM: bspwm 
+        /'/'  \    `-'  (             Theme: Arc-Dark [GTK2/3] 
+         '/''  `._,-----'             Terminal: xfce4-terminal 
+          ''/'    .,---'              Terminal Font: Source Code Pro 10 
+           ''/'      ;:               CPU: Intel i5-7300HQ (4) @ 3.500GHz 
+             ''/''  ''/               GPU: Intel HD Graphics 630 
+               ''/''/''               GPU: NVIDIA GeForce GTX 1050 Mobile 
+                 '/'/'                Memory: 2243MiB / 7830MiB 
+                  `;                  GPU Driver: ASUSTeK Computer Inc. Device [1043:15e0] 
+                                      Disk (/): 12G / 915G (2%) 
+
