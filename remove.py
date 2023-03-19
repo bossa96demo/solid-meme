@@ -7,12 +7,12 @@ with open('neofetch.txt', 'r') as f:
     out = open("out.txt", "w")
     foo = f.readlines()
     for txt in foo:
-        for j in range(i):
-            try:
+        try:
+            for j in range(i):
                 out.write(txt[j])
-            except Exception as e:
-                pass
-        out.write('\n')
+            out.write('\n')
+        except Exception as e:
+            pass
     print("Done")
 out.close()
 f.close()

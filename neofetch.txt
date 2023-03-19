@@ -1,20 +1,21 @@
-    _-`````-,           ,- '- .       ilya@endeavour 
-  .'   .- - |          | - -.  `.     -------------- 
- /.'  /                     `.   \    OS: EndeavourOS x86_64 
-:/   :      _...   ..._      ``   :   Host: GL553VD 1.0 
-::   :     /._ .`:'_.._\.    ||   :   Kernel: 6.2.2-arch1-1 
-::    `._ ./  ,`  :    \ . _.''   .   Uptime: 8 hours, 14 mins 
-`:.      /   |  -.  \-. \_      /     Packages: 917 (pacman) 
-  \:._ _/  .'   .@)  \@) ` `\ ,.'     Shell: bash 5.1.16 
-     _/,--'       .- .\,-.`--`.       Resolution: 1920x1080 
-       ,'/''     (( \ `  )            WM: bspwm 
-        /'/'  \    `-'  (             Theme: Arc-Dark [GTK2/3] 
-         '/''  `._,-----'             Terminal: xfce4-terminal 
-          ''/'    .,---'              Terminal Font: Source Code Pro 10 
-           ''/'      ;:               CPU: Intel i5-7300HQ (4) @ 3.500GHz 
-             ''/''  ''/               GPU: Intel HD Graphics 630 
-               ''/''/''               GPU: NVIDIA GeForce GTX 1050 Mobile 
-                 '/'/'                Memory: 2243MiB / 7830MiB 
-                  `;                  GPU Driver: ASUSTeK Computer Inc. Device [1043:15e0] 
-                                      Disk (/): 12G / 915G (2%) 
-
+                         ,.'                   ilya@endeavour
+           .            `-:-`                  --------------
+          .o`       .-///-`                    OS: EndeavourOS x86_64
+         `oo`    .:/++:.                       Host: GL553VD 1.0
+         os+`  -/+++:` ``.........```          Kernel: 6.2.7-arch1-1
+        /ys+`./+++/-.-::::::----......``       Uptime: 1 hour, 32 mins
+       `syyo`++o+--::::-::/+++/-``             Packages: 953 (pacman)
+       -yyy+.+o+`:/:-:sdmmmmmmmmdy+-`          Shell: bash 5.1.16
+::-`   :yyy/-oo.-+/`ymho++++++oyhdmdy/`        Resolution: 1920x1080
+`/yy+-`.syyo`+o..o--h..osyhhddhs+//osyy/`      WM: bspwm
+  -ydhs+-oyy/.+o.-: ` `  :/::+ydhy+```-os-     Theme: Arc-Dark [GTK2/3]
+   .sdddy::syo--/:.     `.:dy+-ohhho    ./:    Terminal: alacritty
+     :yddds/:+oo+//:-`- /+ +hy+.shhy:     ``   CPU: Intel i5-7300HQ (4) @ 3.500GHz
+      `:ydmmdysooooooo-.ss`/yss--oyyo          GPU: Intel HD Graphics 630
+        `./ossyyyyo+:-/oo:.osso- .oys          GPU: NVIDIA GeForce GTX 1050 Mobile
+       ``..-------::////.-oooo/   :so          Memory: 2712MiB / 7831MiB
+    `...----::::::::--.`/oooo:    .o:          Disk (/): 17G / 915G (2%)
+           ```````     ++o+:`     `:`
+                     ./+/-`        `
+                   `-:-.
+                   ``
